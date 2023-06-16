@@ -10,8 +10,7 @@
   user-select: none;
 }
 body {
-  height: 100vh;
-  overflow-y: hidden;
+  height: 100vh;
   position: relative;
 }
 
